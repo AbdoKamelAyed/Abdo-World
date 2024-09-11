@@ -1,0 +1,69 @@
+  <div class="mega">
+            <div class="image">
+              <img src="./imgs/megamenu.png" alt="img">
+            </div>
+            <ul class="links">
+              <li>
+                <a href="#">
+                  <i class="far fa-comments fa-fw"></i>
+                  testimonials
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="far fa-user fa-fw"></i>
+                  team members
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="far fa-building fa-fw"></i>
+                  services
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="far fa-check-circle fa-fw"></i>
+                  our skills
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="far fa-clipboard fa-fw"></i>
+                  hoe it works
+                </a>
+              </li>
+            </ul>
+            <ul class="links">
+              <li>
+                <a href="#">
+                  <i class="far fa-calendar-alt fa-fw"></i>
+                  events
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="fas fa-server fa-fw"></i>
+                  pricing plan
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="far fa-play-circle fa-fw"></i>
+                  top videos
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="far fa-chart-bar fa-fw"></i>
+                  stats
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="fas fa-percent fa-fw"></i>
+                  request a discount
+                </a>
+              </li>
+            </ul>
+          </div>
